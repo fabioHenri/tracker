@@ -4,6 +4,7 @@
 </template>
 
 <script lang="ts">
+// Teste Branch
 import { defineComponent } from 'vue';
 import HelloWorld from './components/HelloWorld.vue';
 
